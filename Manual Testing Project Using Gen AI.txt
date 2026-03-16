@@ -1,0 +1,36 @@
+How to Use GenAI (Mandatory)
+
+GenAI must be used as a **QA Assistant**, not for blind copy.
+
+Prompt 1 – Understand Application
+
+Act as a manual QA engineer.
+Explore OrangeHRM demo site.
+List all functional modules with description.
+
+Prompt 2 – Generate Test Scenarios
+
+Generate test scenarios for Login module.
+Include positive, negative and edge cases.
+
+Prompt 3 – Generate Test Cases
+
+Convert these test scenarios into test cases
+with steps, test data and expected result.
+
+Prompt 4 – Negative Testing
+
+Generate negative test cases for Add Employee module.
+Think like a real tester.
+
+Prompt 5 – Review
+
+Review my manual test cases.
+Find missing scenarios and improvements.
+
+Important Rules
+
+1. Copy-paste from AI is not allowed.
+2. Minimum 10 test cases must be added manually.
+3. Test data must be realistic.
+4. Duplicate test cases will be rejected.
